@@ -1,4 +1,4 @@
 ango_server
 ===========
 
-High performance network server based on libevent
+High performance and large scale network server
